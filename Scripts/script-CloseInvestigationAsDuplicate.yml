@@ -17,4 +17,4 @@ args:
   required: true
   description: Duplicate incident id
 scripttarget: 0
-runonce: false
+runonce: true

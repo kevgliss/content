@@ -124,5 +124,5 @@ outputs:
 - contextPath: ExtractedFiles
   description: list of file names which extracted from package
 scripttarget: 0
-runonce: false
+runonce: true
 dockerimage: demisto/unrar:1.4

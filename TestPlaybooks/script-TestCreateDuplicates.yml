@@ -28,4 +28,4 @@ args:
   description: Hours different between the original incident and created incident.
   defaultValue: "6"
 scripttarget: 0
-runonce: false
+runonce: true

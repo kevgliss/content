@@ -77,4 +77,4 @@ outputs:
   description: The DBot score
   type: number
 scripttarget: 0
-runonce: false
+runonce: true

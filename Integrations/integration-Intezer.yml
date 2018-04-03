@@ -228,4 +228,4 @@ script:
       description: The actual score
       type: number
     description: Checks file reputation of the given hash, supports SHA256
-  runonce: false
+  runonce: true

@@ -48,4 +48,4 @@ args:
   required: true
   description: range to check against with the form of from,to (e.g. 2,8)
 scripttarget: 0
-runonce: false
+runonce: true

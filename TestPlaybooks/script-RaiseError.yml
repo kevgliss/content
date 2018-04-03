@@ -17,4 +17,4 @@ args:
   required: true
   description: error to raise
 scripttarget: 0
-runonce: false
+runonce: true

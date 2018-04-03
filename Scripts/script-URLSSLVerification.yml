@@ -109,4 +109,4 @@ outputs:
   description: The reputation score
   type: number
 scripttarget: 0
-runonce: false
+runonce: true

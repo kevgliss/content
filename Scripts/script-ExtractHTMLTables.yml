@@ -70,6 +70,6 @@ outputs:
 - contextPath: HTMLTables
   description: The extracted HTML tables
 scripttarget: 0
-runonce: false
+runonce: true
 dockerimage: demisto/bs4
 releaseNotes: "-"

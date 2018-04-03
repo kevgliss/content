@@ -23,4 +23,4 @@ args:
   required: true
   description: charecters to stripped from the text (e.g. "!~")
 scripttarget: 0
-runonce: false
+runonce: true

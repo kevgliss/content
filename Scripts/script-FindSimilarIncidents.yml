@@ -372,4 +372,4 @@ outputs:
   type: string
 scripttarget: 0
 timeout: 300ns
-runonce: false
+runonce: true

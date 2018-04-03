@@ -289,4 +289,4 @@ script:
       description: The S3 bucket policy to apply in json  format
     description: Set a new bucket policy from json
   dockerimage: demisto/boto3
-  runonce: false
+  runonce: true

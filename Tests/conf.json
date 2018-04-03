@@ -273,10 +273,6 @@
             "timeout": 300
         },
         {
-            "integrations": "ArcSight Logger",
-            "playbookID": "ArcSight Logger test"
-        },
-        {
             "integrations": "Forcepoint",
             "playbookID": "forcepoint test",
             "timeout": 500,
@@ -353,6 +349,10 @@
         {
             "integrations": "Remedy AR",
             "playbookID": "Remedy AR Test"
+        },
+        {
+            "integrations": "ArcSight Logger",
+            "playbookID": "ArcSight Logger test"
         }
     ]
 }

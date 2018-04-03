@@ -487,4 +487,4 @@ script:
     description: Get the alerts generated according to given arguments
   dockerimage: demisto/python
   isfetch: true
-  runonce: false
+  runonce: true
