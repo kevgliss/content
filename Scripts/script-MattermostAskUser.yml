@@ -54,3 +54,4 @@ runonce: true
 dependson:
   must:
   - mattermost-send
+releaseNotes: "-"

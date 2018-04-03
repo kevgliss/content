@@ -178,3 +178,4 @@ script:
     arguments: []
     description: Show PhishTank database status
   runonce: true
+releaseNotes: "-"

@@ -78,3 +78,4 @@ outputs:
   type: number
 scripttarget: 0
 runonce: true
+releaseNotes: "-"

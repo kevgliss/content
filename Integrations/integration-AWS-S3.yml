@@ -290,3 +290,4 @@ script:
     description: Set a new bucket policy from json
   dockerimage: demisto/boto3
   runonce: true
+releaseNotes: "-"
