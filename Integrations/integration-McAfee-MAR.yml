@@ -47,6 +47,7 @@ configuration:
   type: 0
   required: true
 script:
+  runonce: true
   script: |
     from dxlclient.client_config import DxlClientConfig
     from dxlclient.client import DxlClient
