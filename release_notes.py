@@ -524,6 +524,7 @@ def main(argv):
     files = parseChangeList(argv[1])
 
     for file in files:
+        print ("file - " + file)
         createFileReleaseNotes(file, argv[2])
 
     res = ""
